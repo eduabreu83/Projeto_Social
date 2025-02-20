@@ -48,10 +48,11 @@ section#redes-sociais img{
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.400);
     box-sizing: border-box; /* quando selecionar o botão da rede social os outros botões não se mexem */
 }
+
 section#redes-sociais img:hover{/*animação do botão*/
     border: 2px solid rgba(255, 255, 255, 0.637); /*#quando selecionar o botão da rede social ele ficara com a borda branca*/
     transform: translate(-3px, -3px);
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.623);
     transition: tranform 0.5s;
-    
+
 }
